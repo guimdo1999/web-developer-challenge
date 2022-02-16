@@ -1,0 +1,113 @@
+header {
+  /*width: 1366px;*/
+  height: 93px;
+  padding: 24px 631px 24px 632px;
+  background-color: #2b2b2b;
+}
+
+body {
+  height: 100%;
+  background-color: #343434;
+  padding-bottom: 20px;
+}
+
+.newPost {
+  width: 30%;
+  height: 40%;
+  margin: 40px 425px 56px;
+  padding: 24px;
+  border-radius: 3px;
+  border: solid 1px #3b3b3b;
+  background-color: #313131;
+  font: white;
+}
+.listPost {
+  width: 30%;
+  height: 20%;
+  margin: 8px 425px 16px;
+  padding: 12px 12px 32px 24px;
+  border-radius: 3px;
+  border: solid 1px #3b3b3b;
+  background-color: #313131;
+  font: white;
+}
+.avatar-img {
+  border-radius: 36px;
+  width: 88px;
+  height: 88px;
+
+  margin: 24px 32px 16px 0;
+}
+.feed {
+  width: 30px;
+  height: 17px;
+  margin: 56px 911px 8px 425px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7a7a7a;
+}
+.mensagem-publicada {
+  width: 80%;
+  height: 60px;
+  margin: 24px 12px 24px 32px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #9f9f9f;
+}
+
+.enviado-por {
+  width: 66px;
+  height: 14px;
+  margin: 24px 274px 2px 32px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: 0.29px;
+  text-align: left;
+  color: #5f5f5f;
+}
+
+.remetente {
+  width: 103px;
+  height: 17px;
+  margin: 2px 237px 0 32px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7a7a7a;
+}
+
+.descartar {
+  width: 60px;
+  height: 17px;
+  margin: 12px 24px 12px 0;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  text-align: center;
+  color: #5f5f5f;
+}
