@@ -23,7 +23,6 @@ function MainPage() {
     ) {
       const newPost = Array.from(list);
       newPost.push(values);
-      newPost.reverse();
       setList(newPost);
       form.resetFields();
     }
