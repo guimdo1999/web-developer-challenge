@@ -1,3 +1,11 @@
+# DADOS PARA SELEÇÃO
+
+Guilherme Matos de Oliveira
+guimdo1999@hotmail.com
+celular: 61988128234
+
+PS: infelizmente consegui fazer o desafio apenas pelo último dia, mas espero que o que eu mostrei seja adequado!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
